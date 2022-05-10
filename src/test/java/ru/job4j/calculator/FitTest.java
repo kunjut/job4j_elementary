@@ -5,7 +5,6 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 public class FitTest {
-
     @Test
     public void whenMan180Then92() {
         short height = 180;

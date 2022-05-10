@@ -10,11 +10,9 @@ public class ArrayDefinition {
         names[1] = "Bob";
         names[2] = "William";
         names[3] = "Robert";
-
         System.out.println(ages.length);
         System.out.println(surnames.length);
         System.out.println(prices.length);
-
         for (String name : names) {
             System.out.println(name);
         }
